@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, e.g., when used with LiteIDE
+.idea
+*.out
+
+# Dependency directories
+# Un-comment the next line if you want to vendor your dependencies
+# vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# env files
+.env
